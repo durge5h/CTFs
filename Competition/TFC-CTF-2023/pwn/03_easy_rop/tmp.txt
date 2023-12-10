@@ -1,0 +1,47 @@
+void main(void)
+
+{
+  undefined4 uVar1;
+  long i;
+  undefined8 *puVar2;
+  long in_FS_OFFSET;
+  byte bVar3;
+  int local_214;
+  undefined4 local_210;
+  uint local_20c;
+  undefined8 local_208 [63];
+  long local_10;
+  
+  bVar3 = 0;
+  local_10 = *(long *)(in_FS_OFFSET + 0x28);
+  setup();
+  puVar2 = local_208;
+  for (i = 62; i != 0; i = i + -1) {
+    *puVar2 = 0;
+    puVar2 = puVar2 + (ulong)bVar3 * -2 + 1;
+  }
+  *(undefined4 *)puVar2 = 0;
+  while( true ) {
+    while( true ) {
+      local_210 = 0;
+      local_20c = 0;
+      puts("Welcome to easyrop!");
+      puts("Press \'1\' to write and \'2\' to read!");
+      __isoc99_scanf(&DAT_00402017,&local_214);
+      if (local_214 != 1) break;
+      local_20c = get_index();
+      uVar1 = get_number();
+      *(undefined4 *)((long)local_208 + (ulong)local_20c * 4) = uVar1;
+    }
+    if (local_214 != 2) break;
+    local_20c = get_index();
+    printf("The number at index %d is %x\n",(ulong)local_20c,
+           (ulong)*(uint *)((long)local_208 + (ulong)local_20c * 4));
+  }
+  puts("Bye :(");
+  if (local_10 != *(long *)(in_FS_OFFSET + 0x28)) {
+                    /* WARNING: Subroutine does not return */
+    __stack_chk_fail();
+  }
+  return;
+}
