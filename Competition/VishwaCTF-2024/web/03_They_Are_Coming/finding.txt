@@ -1,0 +1,7 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /admin
+L3NlY3JldC1sb2NhdGlvbg==
+Decryption key: th1s_1s_n0t_t5e_f1a9
+
+VishwaCTF{g0_Su88m1t_1t_Qu14kl7}

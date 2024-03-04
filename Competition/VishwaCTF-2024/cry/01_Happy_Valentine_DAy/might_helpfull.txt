@@ -1,0 +1,2 @@
+https://apogiatzis.medium.com/tuctf-2018-xorient-write-up-xor-basics-d0c582a3d522
+https://www.doyler.net/security-not-included/basic-xortool-usage

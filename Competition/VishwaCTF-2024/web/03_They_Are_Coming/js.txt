@@ -1,0 +1,137 @@
+{
+    e.UseScrollRestoration = "useScrollRestoration", e.UseSubmit = "useSubmit", e.UseSubmitFetcher = "useSubmitFetcher", e.UseFetcher = "useFetcher", e.useViewTransitionState = "useViewTransitionState"
+})(pt || (pt = {})),
+function(e) {
+    e.UseFetcher = "useFetcher", e.UseFetchers = "useFetchers", e.UseScrollRestoration = "useScrollRestoration"
+}(ht || (ht = {}));
+const mt = n.p + "static/media/robot_thinking.fc933bb1ac81ee36ecde.jpg";
+var vt = n(414);
+const gt = function() {
+        return (0, vt.jsxs)(vt.Fragment, {
+            children: [(0, vt.jsxs)("div", {
+                class: "text-wrapper",
+                children: [(0, vt.jsx)("h1", {
+                    children: "BREAKING NEWS"
+                }), (0, vt.jsx)("h1", {
+                    children: "BREAKING NEWS"
+                }), (0, vt.jsx)("h1", {
+                    children: "BREAKING NEWS"
+                }), (0, vt.jsx)("h1", {
+                    children: "BREAKING NEWS"
+                }), (0, vt.jsx)("h1", {
+                    children: "BREAKING NEWS"
+                }), (0, vt.jsx)("h1", {
+                    children: "BREAKING NEWS"
+                }), (0, vt.jsx)("h1", {
+                    children: "BREAKING NEWS"
+                })]
+            }), (0, vt.jsxs)("div", {
+                class: "news-container",
+                children: [(0, vt.jsx)("img", {
+                    src: mt,
+                    class: "news-image"
+                }), (0, vt.jsx)("h3", {
+                    class: "title ",
+                    children: "Robots have gained the ability to think like Humans!!"
+                })]
+            }), (0, vt.jsxs)("div", {
+                class: "text-wrapper1",
+                children: [(0, vt.jsx)("h1", {
+                    children: "BREAKING NEWS"
+                }), (0, vt.jsx)("h1", {
+                    children: "BREAKING NEWS"
+                }), (0, vt.jsx)("h1", {
+                    children: "BREAKING NEWS"
+                }), (0, vt.jsx)("h1", {
+                    children: "BREAKING NEWS"
+                }), (0, vt.jsx)("h1", {
+                    children: "BREAKING NEWS"
+                }), (0, vt.jsx)("h1", {
+                    children: "BREAKING NEWS"
+                }), (0, vt.jsx)("h1", {
+                    children: "BREAKING NEWS"
+                })]
+            })]
+        })
+    },
+    yt = () => {
+        localStorage.setItem("userRole", "admin"), localStorage.setItem("F1ag", "Open Your Eyes!"), localStorage.setItem("lastLogin", "2023-01-01T12:00:00Z"), localStorage.setItem("theme", "dark"), localStorage.setItem("language", "en_US"), localStorage.setItem("isLoggedIn", "true"), localStorage.setItem("unreadMessages", "5"), localStorage.setItem("preferredCurrency", "USD");
+        return localStorage.setItem("DivID", "205"), localStorage.setItem("Flag", "Gkul0oJKhNZ1E8nxwnMY8Ljn1KNEW9G9l+w243EQt0M4si+fhPQdxoaKkHVTGjmA"), localStorage.setItem("AppVer", "1.0"), (0, vt.jsx)(vt.Fragment, {
+            children: (0, vt.jsxs)("div", {
+                className: "hint-main",
+                children: [(0, vt.jsx)("h1", {
+                    className: "hint",
+                    children: "A Courrpt AI Agent and Its Army of 128 Aesthetic Looking Robots Are Heading Towards Local Vault of the City of Dawn!"
+                }), (0, vt.jsx)("p", {
+                    className: "hint1",
+                    style: {
+                        display: "none"
+                    },
+                    children: "I have done 128 cbc tests"
+                })]
+            })
+        })
+    },
+    bt = {
+        hh188: "/",
+        getKey: "/secret-location"
+    };
+const wt = function() {
+        const e = function(e, t) {
+            return te({
+                basename: null == t ? void 0 : t.basename,
+                future: nt({}, null == t ? void 0 : t.future, {
+                    v7_prependBasename: !0
+                }),
+                history: (n = {
+                    window: null == t ? void 0 : t.window
+                }, void 0 === n && (n = {}), m((function(e, t) {
+                    let {
+                        pathname: n,
+                        search: r,
+                        hash: a
+                    } = e.location;
+                    return f("", {
+                        pathname: n,
+                        search: r,
+                        hash: a
+                    }, t.state && t.state.usr || null, t.state && t.state.key || "default")
+                }), (function(e, t) {
+                    return "string" === typeof t ? t : p(t)
+                }), null, n)),
+                hydrationData: (null == t ? void 0 : t.hydrationData) || rt(),
+                routes: e,
+                mapRouteProperties: tt,
+                window: null == t ? void 0 : t.window
+            }).initialize();
+            var n
+        }([{
+            path: bt.hh188,
+            element: (0, vt.jsx)(gt, {})
+        }, {
+            path: bt.getKey,
+            element: (0, vt.jsx)(yt, {})
+        }]);
+        return (0, vt.jsx)(vt.Fragment, {
+            children: (0, vt.jsx)(dt, {
+                router: e
+            })
+        })
+    },
+    kt = e => {
+        e && e instanceof Function && n.e(206).then(n.bind(n, 206)).then((t => {
+            let {
+                getCLS: n,
+                getFID: r,
+                getFCP: a,
+                getLCP: l,
+                getTTFB: o
+            } = t;
+            n(e), r(e), a(e), l(e), o(e)
+        }))
+    };
+a.createRoot(document.getElementById("root")).render((0, vt.jsx)(t.StrictMode, {
+children: (0, vt.jsx)(wt, {})
+})), kt()
+})()
+})();

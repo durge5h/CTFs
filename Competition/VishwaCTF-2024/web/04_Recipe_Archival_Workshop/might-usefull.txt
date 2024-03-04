@@ -1,0 +1,2 @@
+https://gist.github.com/berzerk0/cae0b229c7f70ecb15310bf0ff42d3d7
+https://d00mfist.gitbooks.io/ctf/content/bypass_image_upload.html
