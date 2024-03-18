@@ -1,0 +1,161 @@
+1) Create account
+2) Deposit Money
+3) Send Money
+4) View Balance
+5) Get Flag
+6) Exit
+Choose your option > 1
+Enter your Name: John
+Account created successfully!
+Here is your account number:  87628868
+
+1) Create account
+2) Deposit Money
+3) Send Money
+4) View Balance
+5) Get Flag
+6) Exit
+Choose your option > 1
+Enter your Name: Joseph
+Account created successfully!
+Here is your account number:  71072467
+
+1) Create account
+2) Deposit Money
+3) Send Money
+4) View Balance
+5) Get Flag
+6) Exit
+Choose your option > 1
+Enter your Name: Sophie
+Account created successfully!
+Here is your account number:  2332836374
+
+1) Create account
+2) Deposit Money
+3) Send Money
+4) View Balance
+5) Get Flag
+6) Exit
+Choose your option > 2
+Enter account number: 71072467
+Enter amount to deposit: 41256 
+Amount 41256.00 deposited to account 71072467 successfully!
+
+1) Create account
+2) Deposit Money
+3) Send Money
+4) View Balance
+5) Get Flag
+6) Exit
+Choose your option > 3
+Enter account number to send money from: 71072467
+Enter account number to send money to: 2332836374
+Enter amount to transfer: 1000
+Amount 1000.00 transferred from account 71072467 to account 2332836374 successfully!
+
+1) Create account
+2) Deposit Money
+3) Send Money
+4) View Balance
+5) Get Flag
+6) Exit
+Choose your option > 4
+Enter account number to view balance: 2332836374
+Balance of account 2332836374: 1000.00
+
+1) Create account
+2) Deposit Money
+3) Send Money
+4) View Balance
+5) Get Flag
+6) Exit
+Choose your option > 1
+Enter your Name: Abhi
+Account created successfully!
+Here is your account number:  2726892157
+
+1) Create account
+2) Deposit Money
+3) Send Money
+4) View Balance
+5) Get Flag
+6) Exit
+Choose your option > 1   
+Enter your Name: Cherian
+Account created successfully!
+Here is your account number:  3908547000
+
+1) Create account
+2) Deposit Money
+3) Send Money
+4) View Balance
+5) Get Flag
+6) Exit
+Choose your option > 1
+Enter your Name: Arjun
+Account created successfully!
+Here is your account number:  483019191
+
+1) Create account
+2) Deposit Money
+3) Send Money
+4) View Balance
+5) Get Flag
+6) Exit
+Choose your option > 2
+Enter account number: 2726892157
+Enter amount to deposit: 12754        
+Amount 12754.00 deposited to account 2726892157 successfully!
+
+1) Create account
+2) Deposit Money
+3) Send Money
+4) View Balance
+5) Get Flag
+6) Exit
+Choose your option > 4
+Enter account number to view balance: 2726892157
+Balance of account 2726892157: 12754.00
+
+1) Create account
+2) Deposit Money
+3) Send Money
+4) View Balance
+5) Get Flag
+6) Exit
+Choose your option > 1
+Enter your Name: Aswin
+Account created successfully!
+Here is your account number:  2129828778
+
+1) Create account
+2) Deposit Money
+3) Send Money
+4) View Balance
+5) Get Flag
+6) Exit
+Choose your option > 1
+Enter your Name: Varun
+Account created successfully!
+Here is your account number:  XXXXXXXXXX   #Redacted
+
+1) Create account
+2) Deposit Money
+3) Send Money
+4) View Balance
+5) Get Flag
+6) Exit
+Choose your option > 2
+Enter account number: 2129828778
+Enter amount to deposit: 1525
+Amount 1525.00 deposited to account 2129828778 successfully!
+
+1) Create account
+2) Deposit Money
+3) Send Money
+4) View Balance
+5) Get Flag
+6) Exit
+Choose your option > 
+

@@ -1,0 +1,3 @@
+vBank's banking application unintentionally made available an alpha build of their Android app through their portal before the official release.
+
+Assess whether any aspects of the application have not been implemented correctly or if there are any issues present.
