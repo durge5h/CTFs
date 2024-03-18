@@ -6,7 +6,8 @@
 
 You finally come across a unique health care application. Everyone has tried their best to get info from it, but no one has been able to get anything useful. It allways makes silly excuses. Can you help us?
 
-this challenge is quite similar to the last ctf i.e. VishwaCTF-2024's H34DE
+this challenge is quite similar to the last ctf i.e. VishwaCTF-2024's h34d3rs, where we have to to perform host header injection according to the response from server.
+as ctf platform is not live for now , will not able to step through challenge(i'll update it later) but this was the final request where i added all the headers sequentially.
 
 ![health_care.png](web/03_health_care/health_care.png)
 
