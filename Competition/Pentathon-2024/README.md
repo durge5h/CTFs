@@ -1,2 +1,2 @@
-# WRITEUP
+# FULL WRITEUP
 ## [HERE]()
