@@ -1,0 +1,1 @@
+Cube and cuboid are three-dimensional shapes that consist of six faces, eight vertices and twelve edges. The primary difference between them is a cube has all its sides equal whereas the length, width and height of a cuboid are different. Both shapes look almost the same but have different properties.
