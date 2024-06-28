@@ -1,0 +1,20 @@
+toggle 461,550 through 564,900
+turn off 370,39 through 425,839
+turn off 464,858 through 833,915
+turn off 812,389 through 865,874
+turn on 599,989 through 806,993
+turn on 376,415 through 768,548
+turn on 606,361 through 892,600
+turn off 448,208 through 645,684
+toggle 50,472 through 452,788
+toggle 205,417 through 703,826
+toggle 533,331 through 906,873
+toggle 857,493 through 989,970
+turn off 631,950 through 894,975
+turn off 387,19 through 720,700
+turn off 511,843 through 581,945
+toggle 514,557 through 662,883
+turn off 269,809 through 876,847
+turn off 149,517 through 716,777
+turn off 994,939 through 998,988
+toggle 467,662 through 555,957
