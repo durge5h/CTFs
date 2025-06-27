@@ -130,7 +130,7 @@ Finished
 
 -> root flag
 
-![8.png][./imgs/8.png]
+![8.png](./imgs/8.png)
 
 
 
