@@ -91,42 +91,42 @@ Finished
 -> we have `/panel` and `/uploads` dirs that can be used for uploading shell (php(php5 worked here)) and access from uploads subsequently.
 
 > Note: Why PHP shell?, i dunno although Wappalyzer didn't work for server script but its most typical CTF challenge style where they have php shell technique to gain initial hold. Nevertheless we can ask from GPT as we found server atleast.
-> ![5.png][./imgs/5.png]
+> ![5.png](./imgs/5.png)
 
 
 -> `/panel`
 
-![1.png][imgs/1.png]
+![1.png](imgs/1.png)
 
 -> `/uploads`
 
-![2.png][./imgs/2.png]
+![2.png](./imgs/2.png)
 
 -> got revere shell
 
-![3.png][./imgs/3.png]
+![3.png](./imgs/3.png)
 
 -> user.txt
 
-![4.png][./imgs/4.png]
+![4.png](./imgs/4.png)
 
 -> upgrading shell
 
-![7.png][./imgs/7.png]
+![7.png](./imgs/7.png)
 
 -> escalating privilege
 
-![9.png][./imgs/9.png]
+![9.png](./imgs/9.png)
 
 -> fortunately we have SUID bit set in python(/usr/bin/python), and rest is on GTFOBINS.
 
-![10.png][./imgs/10.png]
+![10.png](./imgs/10.png)
 
-![11.png][./imgs/11.png]
+![11.png](./imgs/11.png)
 
 -> Payload: `/usr/bin/python -c 'import os; os.execl("/bin/sh", "sh", "-p")'`
 
-![12.png][./imgs/12.png]
+![12.png](./imgs/12.png)
 
 -> root flag
 
