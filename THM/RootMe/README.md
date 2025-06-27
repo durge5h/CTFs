@@ -96,7 +96,7 @@ Finished
 
 -> `/panel`
 
-![1.png][./imgs/1.png]
+![1.png][imgs/1.png]
 
 -> `/uploads`
 
